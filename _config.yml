@@ -21,7 +21,7 @@ repository               : "ars22/ars22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "small_profile_pic.jpg"
   name             : "Amrith Setlur"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Machine Learning"
