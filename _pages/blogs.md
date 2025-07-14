@@ -11,3 +11,8 @@ author_profile: false
 <br><ins>A. Setlur</ins>, Y. Qu, M. Yang, L. Zhang, V. Smith, A. Kumar
 <br> <a href="https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/"> [CMU MLD Blog] </a>
 <br>
+
+* **Sharpening or Discovery, RL or Meta RL?: How RL Improves LLM Reasoning**
+<br><ins>A. Setlur</ins>, A. Kumar
+<br> <a href="https://www.notion.so/Sharpening-or-Discovery-RL-or-Meta-RL-How-RL-Improves-LLM-Reasoning-20628c119540805cac48e8492638d88e"> [Notion Blog] </a>
+<br>

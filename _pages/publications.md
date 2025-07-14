@@ -7,15 +7,23 @@ author_profile: false
 
 ## <span style="color:brown"> 2025 </span>
 
+* **e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs**
+<br><ins>A. Setlur</ins><sup>*</sup>, M. Yang<sup>*</sup>, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar
+<br> <a href="https://exait-workshop.github.io/"> EXAIT ICML 2025 </a> <span style="color:red">**(Best Paper Award)**</span> 
+<br> <a href="https://longcontextfm.github.io/"> LCFM ICML 2025 </a> <span style="color:red">**(Oral)**</span>  <a href="https://tta-icml2025.github.io/"> PUT ICML 2025 </a> <span style="color:red">**(Oral)**</span> 
+<br> <a href="https://arxiv.org/abs/2506.09026"> [pdf] </a> <a href="https://www.notion.so/Sharpening-or-Discovery-RL-or-Meta-RL-How-RL-Improves-LLM-Reasoning-20628c119540805cac48e8492638d88e"> [blog post] </a>  <a href="https://matthewyryang.com/e3/"> [project website] </a>  
+<br>
+
+
 * **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**
 <br><ins>A. Setlur</ins>, N. Rajaraman, S. Levine, A. Kumar
-<br>ICML 2025 <span style="color:red">**(Spotlight)**</span>, ICLR VerifAI <span style="color:red">**(Oral)**</span>
+<br>ICML 2025 <span style="color:red">**(Spotlight)**</span>, <a href="https://verifai-workshop.github.io/"> VerifAI ICLR 2025 </a> <span style="color:red">**(Oral)**</span>
 <br> <a href="https://arxiv.org/abs/2503.07572"> [pdf] </a>
 <br>
 
 * **Scaling Test-Time Compute Without Verification or RL is Suboptimal**
 <br>Y. Qu<sup>*</sup>, M. Yang<sup>*</sup>, <ins>A. Setlur</ins>, L. Tunstall, E. Beeching, R. Salakhutdinov, A. Kumar
-<br>ICML (2025), FM‑Wild ICLR 2025 <span style="color:red">**(Oral)**</span> 
+<br>ICML (2025), <a href="https://fm-wild-community.github.io/"> FM‑Wild ICLR 2025 </a> <span style="color:red">**(Oral)**</span> 
 <br> <a href="https://arxiv.org/abs/2503.07572"> [pdf] </a> <a href="https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/"> [blog post] </a>  
 <br>
 
