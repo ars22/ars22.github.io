@@ -7,18 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). During my PhD, I  have had the privilege of being a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborating closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) award.
+I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). I am also a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborating closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) award.
 
 
 ## <span style="color:brown"> Research Overview </span>
-My research broadly focuses on addressing challenges in modern machine learning (ML) paradigms that remain unsolved after
+My research develops foundation models that adapt at deployment time by allocating test-time compute to reason, search, and interact with their environment, mitigating failures that arise when required behaviors are absent from training data. I study which training signals teach adaptation (including synthetic and model-generated trajectories) and which scalable algorithms best exploit verification and dense process rewards, drawing on meta-RL and reinforcement-learning-based post-training.
+<!-- My research broadly focuses on addressing challenges in modern machine learning (ML) paradigms that remain unsolved after
 scaling data. As we exhaust internet data, my recent work has focused on enhancing generalization by developing new axes of
 sustained performance scaling through **self‑training**, leveraging **synthetic data** with automated supervision, and optimizing
 models to use **test‑time compute via reinforcement learning**. In the past, my work has spanned other challenges of modern
-ML like robustness to spurious correlations, out‑of‑distribution generalization, and data privacy leakage/memorization.
+ML like robustness to spurious correlations, out‑of‑distribution generalization, and data privacy leakage/memorization. -->
 
-## <span style="color:brown"> Collaborations </span>
-During my PhD I have a lot of fun collaborating with some amazing researchers across different areas, from robustness, privacy, to NLP, reinforcement learning and more recently LLM reasoning. Amongst the many, I have particularly enjoyed working closely with [Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/), [Vitaly Feldman](https://vtaly.net/), [Jon Ullman](https://jonathan-ullman.github.io/) and [Steven Wu](https://zstevenwu.com/). 
+<!-- ## <span style="color:brown"> Collaborations </span>
+During my PhD I have a lot of fun collaborating with some amazing researchers across diverse areas, from robustness and privacy to NLP, reinforcement learning and LLMs. Amongst the many that I have benn fortunate to work with, I have  multiple collaborations with [Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/), [Steven Wu](https://zstevenwu.com/), and [Graham Neubig]().  -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 

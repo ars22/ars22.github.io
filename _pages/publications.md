@@ -14,6 +14,25 @@ author_profile: false
 <br> <a href="https://arxiv.org/abs/2506.09026"> [pdf] </a> <a href="https://www.notion.so/Sharpening-or-Discovery-RL-or-Meta-RL-How-RL-Improves-LLM-Reasoning-20628c119540805cac48e8492638d88e"> [blog post] </a>  <a href="https://matthewyryang.com/e3/"> [project website] </a>  
 <br>
 
+* **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interactions**
+<br>J. Shen<sup>*</sup>, H. Bai<sup>*</sup>, L. Zhang, Y. Zhou, <ins>A. Setlur</ins>, P. Doshi, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar, N. Jiang, T. Zhang, A. Talwalkar, A. Kumar
+<br>Oral Presentation at the Scaling Environments for Agent Workshop at NeurIPS 2025.
+<br>Neural Information Processing Systems (NeurIPS), 2025.
+<br> <a href="[Paper URL]"> [Paper] </a> <a href="https://github.com/amrithsetlur/thinking-vs-doing-agents"> [Site] </a>
+<br>
+
+* **RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems**
+<br>Y. Qu, A. Singh, Y. Lee, <ins>A. Setlur</ins>, R. Salakhutdinov, C. Finn, A. Kumar
+<br>Oral Presentation at RAM-2: Reasoning, Attention & Memory Workshop at COLM 2025.
+<br><a href="[Paper URL]"> [Paper] </a> <a href="[Site URL]"> [Site] </a>
+<br>
+
+* **Learning to Reason on Hard Problems with Privileged On-Policy Exploration**
+<br>Y. Qu<sup>*</sup>, <ins>A. Setlur</ins><sup>*</sup>, V. Smith, R. Salakhutdinov, A. Kumar
+<br>Oral Presentation at MATH-AI Workshop NeurIPS 2025.
+<br><a href="[Blog URL]"> [Blog] </a>
+<br>
+
 
 * **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**
 <br><ins>A. Setlur</ins>, N. Rajaraman, S. Levine, A. Kumar
