@@ -7,6 +7,12 @@ author_profile: false
 
 ## <span style="color:brown"> 2025 </span>
 
+* **Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes**
+<br><ins>A. Setlur</ins>, Z. Wang, A. Cohen, P. Rashidinejad<sup>*</sup>, S.M. Xie<sup>*</sup>
+<br>Pre-print
+<br> <a href="/files/PrefixRL.pdf"> [pdf] </a>
+<br>
+
 * **e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs**
 <br><ins>A. Setlur</ins><sup>*</sup>, M. Yang<sup>*</sup>, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar
 <br> <a href="https://exait-workshop.github.io/"> EXAIT ICML 2025 </a> <span style="color:red">**(Best Paper Award)**</span> 
@@ -14,8 +20,16 @@ author_profile: false
 <br> <a href="https://arxiv.org/abs/2506.09026"> [pdf] </a> <a href="https://www.notion.so/Sharpening-or-Discovery-RL-or-Meta-RL-How-RL-Improves-LLM-Reasoning-20628c119540805cac48e8492638d88e"> [blog post] </a>  <a href="https://matthewyryang.com/e3/"> [project website] </a>  
 <br>
 
+
 * **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interactions**
 <br>J. Shen<sup>*</sup>, H. Bai<sup>*</sup>, L. Zhang, Y. Zhou, <ins>A. Setlur</ins>, P. Doshi, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar, N. Jiang, T. Zhang, A. Talwalkar, A. Kumar
+<br><a href="https://agent-intelligence.github.io/agent-intelligence/">Multi-Modal Reasoning for Agentic Intelligence Workshop </a> ICCV 2025 <span style="color:red">**(Best Paper Award)**</span>
+<br><a href="https://sites.google.com/view/law-2025/">Bridging Language, Agent, and World Models</a> NeurIPS 2025 <span style="color:red">**(Best Paper Award)**</span>
+
+<br><a href="https://sites.google.com/view/law-2025/">Language Agents and World Models</a> <span style="color:red">**(Best Paper Award)**</span>
+
+
+
 <br>Oral Presentation at the Scaling Environments for Agent Workshop at NeurIPS 2025.
 <br>Neural Information Processing Systems (NeurIPS), 2025.
 <br> <a href="[Paper URL]"> [Paper] </a> <a href="https://github.com/amrithsetlur/thinking-vs-doing-agents"> [Site] </a>
@@ -33,7 +47,6 @@ author_profile: false
 <br><a href="[Blog URL]"> [Blog] </a>
 <br>
 
-
 * **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**
 <br><ins>A. Setlur</ins>, N. Rajaraman, S. Levine, A. Kumar
 <br>ICML 2025 <span style="color:red">**(Spotlight)**</span>, <a href="https://verifai-workshop.github.io/"> VerifAI ICLR 2025 </a> <span style="color:red">**(Oral)**</span>
@@ -45,9 +58,6 @@ author_profile: false
 <br>ICML (2025), <a href="https://fm-wild-community.github.io/"> FM‑Wild ICLR 2025 </a> <span style="color:red">**(Oral)**</span> 
 <br> <a href="https://arxiv.org/abs/2503.07572"> [pdf] </a> <a href="https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/"> [blog post] </a>  
 <br>
-
-
-
 
 * **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**
 <br><ins>A. Setlur</ins><sup>*</sup>, C. Nagpal<sup>*</sup>, A. Fisch, X. Geng, J. Eisenstein, R. Agarwal, A. Agarwal, J. Berant, A. Kumar
@@ -86,8 +96,6 @@ author_profile: false
 <br>ICLR (2024)
 <br> <a href="https://arxiv.org/abs/2312.03318"> [pdf] </a>
 <br>
-
-
 
 
 ## <span style="color:brown"> 2023 </span>
