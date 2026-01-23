@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-## <span style="color:brown"> 2025 </span>
+## <span style="color:purple"> 2025 </span>
 
 * **Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes**
 <br><ins>A. Setlur</ins>, Z. Wang, A. Cohen, P. Rashidinejad<sup>*</sup>, S.M. Xie<sup>*</sup>
@@ -15,57 +15,52 @@ author_profile: false
 
 * **e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs**
 <br><ins>A. Setlur</ins><sup>*</sup>, M. Yang<sup>*</sup>, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar
-<br> <a href="https://exait-workshop.github.io/"> EXAIT ICML 2025 </a> <span style="color:red">**(Best Paper Award)**</span> 
-<br> <a href="https://longcontextfm.github.io/"> LCFM ICML 2025 </a> <span style="color:red">**(Oral)**</span>  <a href="https://tta-icml2025.github.io/"> PUT ICML 2025 </a> <span style="color:red">**(Oral)**</span> 
+<br> <a href="https://exait-workshop.github.io/"> EXAIT ICML 2025 </a> <span style="color:brown">**(Best Paper Award)**</span> 
+<br> <a href="https://longcontextfm.github.io/"> LCFM ICML 2025 </a> <span style="color:brown">**(Oral)**</span>  <a href="https://tta-icml2025.github.io/"> PUT ICML 2025 </a> <span style="color:brown">**(Oral)**</span> 
 <br> <a href="https://arxiv.org/abs/2506.09026"> [pdf] </a> <a href="https://www.notion.so/Sharpening-or-Discovery-RL-or-Meta-RL-How-RL-Improves-LLM-Reasoning-20628c119540805cac48e8492638d88e"> [blog post] </a>  <a href="https://matthewyryang.com/e3/"> [project website] </a>  
 <br>
 
 
 * **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interactions**
 <br>J. Shen<sup>*</sup>, H. Bai<sup>*</sup>, L. Zhang, Y. Zhou, <ins>A. Setlur</ins>, P. Doshi, C. Snell, J. Greer, I. Wu, V. Smith, M. Simchowitz, A. Kumar, N. Jiang, T. Zhang, A. Talwalkar, A. Kumar
-<br><a href="https://agent-intelligence.github.io/agent-intelligence/">Multi-Modal Reasoning for Agentic Intelligence Workshop </a> ICCV 2025 <span style="color:red">**(Best Paper Award)**</span>
-<br><a href="https://sites.google.com/view/law-2025/">Bridging Language, Agent, and World Models</a> NeurIPS 2025 <span style="color:red">**(Best Paper Award)**</span>
-
-<br><a href="https://sites.google.com/view/law-2025/">Language Agents and World Models</a> <span style="color:red">**(Best Paper Award)**</span>
-
-
-
-<br>Oral Presentation at the Scaling Environments for Agent Workshop at NeurIPS 2025.
+<br><a href="https://agent-intelligence.github.io/agent-intelligence/">Multi-Modal Reasoning for Agentic Intelligence Workshop </a> at ICCV 2025 <span style="color:brown">**(Best Paper Award)**</span>
+<br><a href="https://sites.google.com/view/law-2025/">Language Agents and World Models </a> at NeurIPS 2025 <span style="color:brown">**(Best Paper Award)**</span>
+<br> <a href="https://sea-workshop.github.io/"> Scaling Environments for Agent Workshop </a>  at NeurIPS 2025 <span style="color:brown">**(Oral)**</span> 
 <br>Neural Information Processing Systems (NeurIPS), 2025.
 <br> <a href="[Paper URL]"> [Paper] </a> <a href="https://github.com/amrithsetlur/thinking-vs-doing-agents"> [Site] </a>
 <br>
 
 * **RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems**
 <br>Y. Qu, A. Singh, Y. Lee, <ins>A. Setlur</ins>, R. Salakhutdinov, C. Finn, A. Kumar
-<br>Oral Presentation at RAM-2: Reasoning, Attention & Memory Workshop at COLM 2025.
+<br>RAM-2: Reasoning, Attention & Memory Workshop at COLM 2025 <span style="color:brown">**(Oral)**</span>
 <br><a href="[Paper URL]"> [Paper] </a> <a href="[Site URL]"> [Site] </a>
 <br>
 
 * **Learning to Reason on Hard Problems with Privileged On-Policy Exploration**
 <br>Y. Qu<sup>*</sup>, <ins>A. Setlur</ins><sup>*</sup>, V. Smith, R. Salakhutdinov, A. Kumar
-<br>Oral Presentation at MATH-AI Workshop NeurIPS 2025.
+<br>MATH-AI Workshop at NeurIPS 2025. <span style="color:brown">**(Oral)**</span>
 <br><a href="[Blog URL]"> [Blog] </a>
 <br>
 
 * **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**
 <br><ins>A. Setlur</ins>, N. Rajaraman, S. Levine, A. Kumar
-<br>ICML 2025 <span style="color:red">**(Spotlight)**</span>, <a href="https://verifai-workshop.github.io/"> VerifAI ICLR 2025 </a> <span style="color:red">**(Oral)**</span>
+<br>ICML 2025 <span style="color:brown">**(Spotlight)**</span>, <a href="https://verifai-workshop.github.io/"> VerifAI ICLR 2025 </a> <span style="color:brown">**(Oral)**</span>
 <br> <a href="https://arxiv.org/abs/2503.07572"> [pdf] </a>
 <br>
 
 * **Scaling Test-Time Compute Without Verification or RL is Suboptimal**
 <br>Y. Qu<sup>*</sup>, M. Yang<sup>*</sup>, <ins>A. Setlur</ins>, L. Tunstall, E. Beeching, R. Salakhutdinov, A. Kumar
-<br>ICML (2025), <a href="https://fm-wild-community.github.io/"> FM‑Wild ICLR 2025 </a> <span style="color:red">**(Oral)**</span> 
+<br>ICML (2025), <a href="https://fm-wild-community.github.io/"> FM‑Wild ICLR 2025 </a> <span style="color:brown">**(Oral)**</span> 
 <br> <a href="https://arxiv.org/abs/2503.07572"> [pdf] </a> <a href="https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/"> [blog post] </a>  
 <br>
 
 * **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**
 <br><ins>A. Setlur</ins><sup>*</sup>, C. Nagpal<sup>*</sup>, A. Fisch, X. Geng, J. Eisenstein, R. Agarwal, A. Agarwal, J. Berant, A. Kumar
-<br> ICLR (2025) <span style="color:red">**(Spotlight)**</span> 
+<br> ICLR (2025) <span style="color:brown">**(Spotlight)**</span> 
 <br> <a href="https://arxiv.org/abs/2410.08146"> [pdf] </a>
 <br>
 
-## <span style="color:brown"> 2024 </span>
+## <span style="color:purple"> 2024 </span>
 * **RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**
 <br><ins>A. Setlur</ins>, S. Garg, X. Geng, N. Garg, V. Smith, A. Kumar
 <br>NeurIPS (2024)
@@ -87,7 +82,7 @@ author_profile: false
 
 * **Project with Source, Probe with Target: Extracting Useful Features for Adaptation to Distribution Shifts**
 <br>A.S. Chen<sup>*</sup>, Y. Lee<sup>*</sup>, <ins>A. Setlur</ins>, S. Levine, C Finn
-<br>ICLR (2024) <span style="color:red">**(Spotlight)**</span> 
+<br>ICLR (2024) <span style="color:brown">**(Spotlight)**</span> 
 <br> <a href="https://arxiv.org/abs/2312.03318"> [pdf]</a>
 <br>
 
@@ -98,7 +93,7 @@ author_profile: false
 <br>
 
 
-## <span style="color:brown"> 2023 </span>
+## <span style="color:purple"> 2023 </span>
 * **Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**
 <br>S. Garg<sup>*</sup>, <ins>A. Setlur</ins><sup>*</sup>, Z. Lipton, S. Balakrishnan, V. Smith, A. Raghunathan
 <br> NeurIPS 2023
@@ -144,7 +139,7 @@ author_profile: false
 <br> <a href="https://arxiv.org/abs/2302.02931">[pdf]</a>
 <br>
 
-## <span style="color:brown"> 2022 </span>
+## <span style="color:purple"> 2022 </span>
 
 
 * **Adversarial Unlearning: Reducing Confidence Along Adversarial Directions**
@@ -154,7 +149,7 @@ author_profile: false
 <br>
 
 
-## <span style="color:brown"> 2021 </span>
+## <span style="color:purple"> 2021 </span>
 
 * **Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution**
 <br><ins>A. Setlur</ins><sup>*</sup>, O. Li<sup>*</sup>, V. Smith
@@ -179,25 +174,25 @@ author_profile: false
 
 * **Nonlinear ISA with auxiliary variables for learning speech representations**
 <br><ins>A. Setlur</ins>, B. Póczos, AW. Black
-<br> InterSpeech 2021  <span style="color:red">**(Best Paper Nomination)**</span>
+<br> InterSpeech 2021  <span style="color:brown">**(Best Paper Nomination)**</span>
 <br> <a href="https://arxiv.org/abs/2007.12948">[pdf]</a>
 <br>
 
 
 * **Towards Using Heterogeneous Relation Graphs for End-to-End TTS**
-<br><ins>A. Setlur</ins><sup>*</sup>^, A Madaan<sup>*</sup>^, T Parekh<sup>*</sup>^, Y Yang, AW Black
+<br><ins>A. Setlur</ins><sup>*</sup>, A Madaan<sup>*</sup>, T Parekh<sup>*</sup>, Y Yang, AW Black
 <br> ASRU 2021
 <br> <a href="https://arxiv.org/abs/2102.11503">[pdf]</a>
 <br>
 
 
 
-## <span style="color:brown"> 2020 & Earlier </span>
+## <span style="color:purple"> 2020 & Earlier </span>
 
 
 
 * **Politeness transfer: A tag and generate approach**
-<br>A. Madaan<sup>*</sup>^, <ins>A. Setlur</ins><sup>*</sup>^, T. Parekh<sup>*</sup>^, B. Poczos, G. Neubig, Y. Yang, R. Salakhutdinov, A. W Black, S. Prabhumoye
+<br>A. Madaan<sup>*</sup>, <ins>A. Setlur</ins><sup>*</sup>, T. Parekh<sup>*</sup>, B. Poczos, G. Neubig, Y. Yang, R. Salakhutdinov, A. W Black, S. Prabhumoye
 <br> ACL 2020
 <br> <a href="https://arxiv.org/abs/2004.14257">[pdf]</a>
 <br>
@@ -227,6 +222,6 @@ author_profile: false
 
 * **Better Approximate Inference for Partial Likelihood Models with a Latent Structure**
 <br><ins>A. Setlur</ins>, B. Póczós
-<br> TPP @ Neurips 2019 <span style="color:red">**(Oral)**</span>
+<br> TPP @ Neurips 2019 <span style="color:brown">**(Oral)**</span>
 <br> <a href="https://arxiv.org/abs/2102.11503">[pdf]</a>
 <br>
