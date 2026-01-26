@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). I am also a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborating closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) award.
+I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). I am also a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborate very closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) award.
 
 
 ## <span style="color:brown"> Research Overview </span>
-My research develops foundation models that adapt at deployment time by allocating test-time compute to reason, search, and interact with their environment, mitigating failures that arise when required behaviors are absent from training data. I study which training signals teach adaptation (including synthetic and model-generated trajectories) and which scalable algorithms best exploit verification and dense process rewards, drawing on meta-RL and reinforcement-learning-based post-training.
+
+<p style="text-align: justify; text-justify: inter-word;">
+I work on fundamental principles and practical recipes for building models with test-time adaptation (TTA) capabilities. These models can spend additional computation at test time on difficult instances through reasoning, search, and interaction, rather than behaving as static predictors that fail under distribution shift or limited supervision. More recently, I have focused on understanding the bottlenecks in training reasoning LLMs, improving exploration on hard problems where verification signals are weak, and, more broadly, developing RL training methods for LLMs that can continually interact, adapt, and update themselves in underspecified test environments when deployed.
+</p>
+
+<!-- My research aims to build foundation models that adapt at deployment time by allocating test-time compute to reason, search, and interact with their environment, mitigating failures that arise when required behaviors are absent from training data. I study which training signals teach adaptation (including synthetic and model-generated trajectories) and which scalable algorithms best exploit verification and dense process rewards, drawing on meta-RL and reinforcement-learning-based post-training. -->
 <!-- My research broadly focuses on addressing challenges in modern machine learning (ML) paradigms that remain unsolved after
 scaling data. As we exhaust internet data, my recent work has focused on enhancing generalization by developing new axes of
 sustained performance scaling through **self‑training**, leveraging **synthetic data** with automated supervision, and optimizing
