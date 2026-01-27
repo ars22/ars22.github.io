@@ -38,6 +38,14 @@ author_profile: false
 <br><a href="https://arxiv.org/pdf/2510.02263">[pdf]</a> <a href="https://cohenqu.github.io/rlad.github.io/">[site]</a>
 <br>
 
+* **https://arxiv.org/pdf/2507.17895**
+<br><ins>A. Setlur</ins><sup>✱</sup>, P. Thaker<sup>✱</sup>, J. Ullman<sup>✱</sup>
+<br> AISTATS (2026)
+<br><a href="https://arxiv.org/pdf/2507.17895">[pdf]</a>
+<br>
+
+
+
 * **Learning to Reason on Hard Problems with Privileged On-Policy Exploration**
 <br>Y. Qu<sup>✱</sup>, <ins>A. Setlur</ins><sup>✱</sup>, V. Smith, R. Salakhutdinov, A. Kumar
 <br>MATH-AI Workshop at NeurIPS 2025 <span style="color:brown">**(Oral)**</span>
