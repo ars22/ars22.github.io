@@ -38,7 +38,7 @@ author_profile: false
 <br><a href="https://arxiv.org/pdf/2510.02263">[pdf]</a> <a href="https://cohenqu.github.io/rlad.github.io/">[site]</a>
 <br>
 
-* **https://arxiv.org/pdf/2507.17895**
+* **Lower Bounds for Public-Private Learning under Distribution Shift**
 <br><ins>A. Setlur</ins><sup>✱</sup>, P. Thaker<sup>✱</sup>, J. Ullman<sup>✱</sup>
 <br> AISTATS (2026)
 <br><a href="https://arxiv.org/pdf/2507.17895">[pdf]</a>
