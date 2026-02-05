@@ -11,9 +11,15 @@ author_profile: false
 
 
 * **Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes**
-<br><ins>A. Setlur</ins>, Z. Wang, A. Cohen, P. Rashidinejad<sup>✱</sup>, S.M. Xie<sup>✱</sup>
+<br><ins>A. Setlur</ins>, Z. Wang, A. Cohen, P. Rashidinejad, S.M. Xie
 <br>Pre-print
-<br> <a href="/files/PrefixRL.pdf">[pdf]</a>
+<br> <a href="https://arxiv.org/pdf/2601.18795">[pdf]</a>
+<br>
+
+* **Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL**
+<br> I. Wu, Y. Qu, <ins>A. Setlur</ins>, A. Kumar 
+<br>Pre-print
+<br> <a href="https://arxiv.org/pdf/2602.03773">[pdf]</a>
 <br>
 
 * **e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs**
@@ -38,18 +44,20 @@ author_profile: false
 <br><a href="https://arxiv.org/pdf/2510.02263">[pdf]</a> <a href="https://cohenqu.github.io/rlad.github.io/">[site]</a>
 <br>
 
-* **Lower Bounds for Public-Private Learning under Distribution Shift**
-<br><ins>A. Setlur</ins><sup>✱</sup>, P. Thaker<sup>✱</sup>, J. Ullman<sup>✱</sup>
-<br> AISTATS (2026)
-<br><a href="https://arxiv.org/pdf/2507.17895">[pdf]</a>
-<br>
+
 
 
 
 * **Learning to Reason on Hard Problems with Privileged On-Policy Exploration**
 <br>Y. Qu<sup>✱</sup>, <ins>A. Setlur</ins><sup>✱</sup>, V. Smith, R. Salakhutdinov, A. Kumar
 <br>MATH-AI Workshop at NeurIPS 2025 <span style="color:brown">**(Oral)**</span>
-<br><a href="https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/">[blog] </a>
+<br><a href="https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/">[blog] </a> <a href="https://arxiv.org/pdf/2601.18779">[pdf]</a>
+<br>
+
+* **Lower Bounds for Public-Private Learning under Distribution Shift**
+<br><ins>A. Setlur</ins><sup>✱</sup>, P. Thaker<sup>✱</sup>, J. Ullman<sup>✱</sup>
+<br> AISTATS (2026)
+<br><a href="https://arxiv.org/pdf/2507.17895">[pdf]</a>
 <br>
 
 
