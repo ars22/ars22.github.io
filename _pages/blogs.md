@@ -7,6 +7,10 @@ author_profile: false
 
 ## <span style="color:purple"> 2026 </span>
 
+* **QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**
+<br> LM Provers Team
+<br><a href="https://huggingface.co/spaces/lm-provers/qed-nano-blogpost">[HF Blog]</a> *(Feb 2026)*
+
 * **IsoCompute Playbook: Optimally Scaling Sampling Compute for RL Training of LLMs**
 <br> Z. Cheng<sup>✱</sup>, Y. Xie<sup>✱</sup>, Y. Qu<sup>✱</sup>, <ins>A. Setlur</ins><sup>✱</sup>, S. Hao, V. Pimpalkhute, T. Liang, F. Yao, Z. Liu, E. Xing, V. Smith, R. Salakhutdinov, Z. Hu, T. Killian, A. Kumar
 <br><a href="https://compute-optimal-rl-llm-scaling.github.io/">[CMU MLD Blog]</a> *(Jan 2026)*
