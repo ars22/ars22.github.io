@@ -9,6 +9,10 @@ author_profile: false
 ## <span style="color:purple"> 2026 </span>
 
 
+* **QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**
+<br>LM Provers Team <a href="https://huggingface.co/spaces/lm-provers/qed-nano-blogpost">[blog]</a>
+<br> <span style="color:brown"> **Laude Institute Slingshot Award** </span> <a href="https://www.laude.org/updates/slingshots-two"> [announcement] </a> 
+<br>
 
 * **Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes**
 <br><ins>A. Setlur</ins>, Z. Wang, A. Cohen, P. Rashidinejad, S.M. Xie
