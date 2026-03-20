@@ -21,7 +21,18 @@ I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) 
   text-align-last: left;
   word-spacing: -0.04em;
 ">
-I work on fundamental principles and practical recipes for building models with test-time adaptation (TTA) capabilities. These models spend additional computation at test time on difficult instances through reasoning, search, and interaction, rather than behaving as static predictors that fail under distribution shift or limited supervision. More recently, I have focused on understanding the bottlenecks in training reasoning LLMs, improving exploration on hard problems where verification signals are weak, and, more broadly, developing RL training methods for LLMs that can continually interact, adapt, and update themselves in underspecified test environments when deployed.
+I work on fundamental principles and practical recipes for building AI systems that continually adapt at test-time and solve hard problems (e.g., open conjectures in CS/math research). These systems spend additional computation on difficult instances through reasoning, search, and interaction, rather than behaving as static predictors (e.g., neural nets that fail under distribution shift). We can think of a system that adapts at test-time as one that is running an algorithm. This means I am essentially interested in learning algorithms (e.g., by training LLMs that can represent one) efficient at spending the additional computations on an input to perform intelligent test-time search needed to solve the hard problem.  
+</p>
+
+<p style="
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  text-align-last: left;
+  word-spacing: -0.04em;
+">
+More recently, I have focused on understanding the bottlenecks in training reasoning LLMs, improving exploration on hard problems where verification signals are weak, and, more broadly, developing RL training methods for LLMs that can continually interact, adapt, and update themselves in underspecified test environments when deployed.
 </p>
 
 
