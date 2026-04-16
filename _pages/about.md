@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). I am also a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborate very closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the JP Morgan AI PhD Fellowship and the CMU SCS Presidential Fellowship.
+I'm a final year PhD Student in the [Machine Learning](https://www.ml.cmu.edu/) Department at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). I am also a long term visiting researcher at [UC Berkeley](https://bair.berkeley.edu/), advised by [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), and collaborate very closely with [Aviral Kumar](https://aviralkumar2907.github.io/). My PhD is generously supported by the <span style="color:brown"> <b>JP Morgan AI PhD Fellowship</b> </span> and the <span style="color:brown"> <b>MLD Presidential Fellowship</b> </span>.
 
 
-## <span style="color:brown"> Research Overview </span>
+## <span style="color:black"> Research Overview </span>
 
 <p style="
   text-align: justify;
